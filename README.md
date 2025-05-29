@@ -48,4 +48,4 @@ Mascot: Serpent
 Founder: Salazar Slytherin
 
 ## 🚀 Live Demo
-Visit the quiz: https://rtipsterhub.github.io/hogwarts hogwarts
+Visit the quiz: https://rtipsterhub.github.io/hogwarts# hogwarts
